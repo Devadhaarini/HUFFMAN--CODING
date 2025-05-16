@@ -19,6 +19,7 @@ Step5: print the characters and its huffmancode.
 
 ## Program:
 Developed by : DEVADHAARINI D
+
 Register no.: 212223230040
 ``` Python
 # Get the input String
